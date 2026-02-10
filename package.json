@@ -1,0 +1,19 @@
+{
+  "name": "bfhl-api-chitkara",
+  "version": "1.0.0",
+  "description": "Chitkara University Qualifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunilstha001/Bajaj_Finserv_Health.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunilstha001/Bajaj_Finserv_Health/issues"
+  },
+  "homepage": "https://github.com/sunilstha001/Bajaj_Finserv_Health#readme"
+}
