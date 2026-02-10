@@ -1,8 +1,7 @@
-# BFHL API – Chitkara University Hackathon
-
+# BFHL API – Chitkara University 
 This project is developed as part of **Qualifier 1 – Chitkara University (10 Feb 2026)**.
 
-It provides two public REST APIs as per the hackathon instructions with proper validation, error handling, and AI integration.
+It provides two public REST APIs as per the instructions with proper validation, error handling, and AI integration.
 
 ---
 
@@ -21,4 +20,3 @@ It provides two public REST APIs as per the hackathon instructions with proper v
 **Description:**  
 Health check endpoint to verify API availability.
 
-**URL:**
