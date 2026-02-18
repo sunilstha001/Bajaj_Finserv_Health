@@ -19,6 +19,14 @@ app.use((err, req, res, next) => {
   });
 });
 
+app.get("/", (req, res) =>{
+  res.json({
+    is_success: true,
+    official_email: process.env.OFFICIAL_EMAIL,
+    message: "Welcome to the BFHL API. Please refer to the documentation for available endpoints."
+  })
+})
+
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
